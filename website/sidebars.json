@@ -1,12 +1,15 @@
 {
   "docs": {
-    "Welcome": ["documentation-intro"],
+    "Welcome": [
+      "documentation-intro"
+    ],
     "Getting Started": [
       "getting-started",
       "folder-structure",
       "available-scripts",
       "supported-browsers-features",
-      "updating-to-new-releases"
+      "updating-to-new-releases",
+      "context"
     ],
     "Development": [
       "setting-up-your-editor",
@@ -39,14 +42,19 @@
       "measuring-performance",
       "production-build"
     ],
-    "Testing": ["running-tests", "debugging-tests"],
+    "Testing": [
+      "running-tests",
+      "debugging-tests"
+    ],
     "Back-End Integration": [
       "proxying-api-requests-in-development",
       "fetching-data-with-ajax-requests",
       "integrating-with-an-api-backend",
       "title-and-meta-tags"
     ],
-    "Deployment": ["deployment"],
+    "Deployment": [
+      "deployment"
+    ],
     "Advanced Usage": [
       "custom-templates",
       "can-i-use-decorators",
@@ -54,6 +62,8 @@
       "advanced-configuration",
       "alternatives-to-ejecting"
     ],
-    "Support": ["troubleshooting"]
+    "Support": [
+      "troubleshooting"
+    ]
   }
 }
