@@ -1,7 +1,7 @@
 ---
-id: documentation-intro
-title: About the Documentation
-sidebar_label: About Docs
+id: b2b
+title: Корпоративный сектор
+sidebar_label: Корпоративный сектор
 ---
 
 Welcome to the Create React App documentation!
