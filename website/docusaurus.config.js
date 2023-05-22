@@ -7,12 +7,12 @@
 'use strict';
 
 const siteConfig = {
-  title: 'Create React App',
-  tagline: 'Set up a modern web app by running one command.',
-  url: 'https://create-react-app.dev',
+  title: 'Adsmachine Group',
+  tagline: 'Агенство контекстной рекламы и веб-аналитики',
+  url: 'https://adsmachine.ru',
   baseUrl: '/',
   projectName: 'create-react-app',
-  organizationName: 'facebook',
+  organizationName: 'Adsmachine',
   favicon: 'img/favicon/favicon.ico',
   presets: [
     [
