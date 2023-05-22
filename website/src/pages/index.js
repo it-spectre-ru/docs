@@ -19,19 +19,19 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: 'Less to Learn',
+    title: 'Передовые инструменты',
     content:
-      "You don't need to learn and configure many build tools. Instant reloads help you focus on development. When it's time to deploy, your bundles are optimized automatically.",
+      "Собственные IT-решения и партнеры по оптимизации и автоматизации рекламных кампаний.",
   },
   {
-    title: 'Only One Dependency',
+    title: 'Персональный менеджер',
     content:
-      'Your app only needs one build dependency. We test Create React App to make sure that all of its underlying pieces work together seamlessly – no complicated version mismatches.',
+      'Ваш проект ведет опытный аккаунт, который гарантирует связь, скорость, точность и понимание деталей.',
   },
   {
-    title: 'No Lock-In',
+    title: 'Полная прозрачность',
     content:
-      'Under the hood, we use webpack, Babel, ESLint, and other amazing projects to power your app. If you ever want an advanced configuration, you can ”eject” from Create React App and edit their config files directly.',
+      'Отчитываемся по результатам, предоставляем медиаплан по запросам и трафику и даем полный доступ к отчетам и аналитике.',
   },
 ];
 
@@ -58,7 +58,7 @@ function Home() {
               className="button button--outline button--primary button--lg"
               to={useBaseUrl('docs/starting')}
             >
-              Get Started
+              Заказать консультацию
             </Link>
           </div>
         </div>

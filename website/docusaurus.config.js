@@ -35,7 +35,7 @@ const siteConfig = {
   themeConfig: {
     image: 'img/logo-og.png',
     announcementBar: {
-      id: 'support_ukraine',
+      id: 'support',
       content:
         'Support  <a target="_blank" rel="noopener noreferrer" \
         href=""> 111111111111111111</a>.',
@@ -49,13 +49,13 @@ const siteConfig = {
       indexName: 'create-react-app',
     },
     navbar: {
-      title: 'Create React App',
+      title: 'Трафик и конверсии',
       logo: {
         alt: 'Create React App Logo',
         src: 'img/logo.svg',
       },
       items: [
-        { to: 'docs/getting-started', label: 'Docs', position: 'right' },
+        { to: 'docs/b2b', label: 'B2B', position: 'right' },
         {
           href: 'https://reactjs.org/community/support.html',
           label: 'Help',
@@ -75,8 +75,8 @@ const siteConfig = {
           title: 'Docs',
           items: [
             {
-              label: 'Get Started',
-              to: 'docs/getting-started',
+              label: 'B2B',
+              to: 'docs/b2b',
             },
             {
               label: 'Learn React',
