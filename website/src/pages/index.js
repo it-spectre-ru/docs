@@ -81,18 +81,10 @@ function Home() {
         <div className="container padding-vert--xl text--left">
           <div className="row">
             <div className="col col--4 col--offset-1">
-              <h2>Get started in seconds</h2>
+              <h2>Эффективная реклама</h2>
               <p>
-                Whether you’re using React or another library, Create React App
-                lets you <strong>focus on code, not build tools</strong>.
-                <br />
-                <br />
-                To create a project called <i>my-app</i>, run this command:
+                Сделаем Вашу рекламу в интернете систематической и эффективной. На основе индивидуальной стратегии продвижения, которая будет учитывать Ваши <strong>цели, бюджет, нишу и целевую аудиторию.</strong>.
               </p>
-              <CodeBlock className="language-sh">
-                npx create-react-app my-app
-              </CodeBlock>
-              <br />
             </div>
             <div className="col col--5 col--offset-1">
               <img
