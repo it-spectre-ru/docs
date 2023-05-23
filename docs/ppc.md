@@ -1,7 +1,7 @@
 ---
-id: ads
-title: Интернет-реклама
-sidebar_label: Интернет-реклама
+id: ppc
+title: Платная реклама
+sidebar_label: Платная реклама
 ---
 
 Welcome to the Create React App documentation!

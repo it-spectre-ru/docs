@@ -1,7 +1,7 @@
 ---
-id: price
-title: Цены на услуги
-sidebar_label: Стоимость
+id: analytics
+title: Веб-аналитика
+sidebar_label: Веб-аналитика
 ---
 
 Welcome to the Create React App documentation!

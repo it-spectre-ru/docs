@@ -1,7 +1,7 @@
 ---
-id: price
-title: Цены на услуги
-sidebar_label: Стоимость
+id: strategy
+title: Комплексные digital-стратегии
+sidebar_label: Стратегии продвижения
 ---
 
 Welcome to the Create React App documentation!

@@ -55,15 +55,15 @@ const siteConfig = {
         src: 'img/logo.svg',
       },
       items: [
-        { to: 'docs/b2b', label: 'B2B', position: 'right' },
+        { to: 'docs/b2b', label: 'Кейсы', position: 'right' },
         {
-          href: 'https://reactjs.org/community/support.html',
-          label: 'Help',
+          to: 'docs/b2b',
+          label: 'Контакты',
           position: 'right',
         },
         {
-          href: 'https://www.github.com/facebook/create-react-app',
-          label: 'GitHub',
+          to: 'docs/b2b',
+          label: 'Стратегия',
           position: 'right',
         },
       ],
@@ -85,23 +85,15 @@ const siteConfig = {
           ],
         },
         {
-          title: 'Community',
+          title: 'Услуги',
           items: [
             {
-              label: 'Stack Overflow',
+              label: 'Контекстная реклама',
               href: 'https://stackoverflow.com/questions/tagged/create-react-app',
             },
             {
-              label: 'GitHub Discussions',
+              label: 'Аудит и аналитика',
               href: 'https://github.com/facebook/create-react-app/discussions',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/reactjs',
-            },
-            {
-              label: 'Contributor Covenant',
-              href: 'https://www.contributor-covenant.org/version/1/4/code-of-conduct',
             },
           ],
         },
@@ -109,7 +101,7 @@ const siteConfig = {
           title: 'Social',
           items: [
             {
-              label: 'GitHub',
+              label: 'Telegramm',
               href: 'https://www.github.com/facebook/create-react-app',
             },
           ],
@@ -119,7 +111,7 @@ const siteConfig = {
         alt: 'Facebook Open Source Logo',
         src: 'img/oss_logo.png',
       },
-      copyright: `Copyright © ${new Date().getFullYear()} Facebook, Inc.`,
+      copyright: `Copyright © ${new Date().getFullYear()} 	&#10084; Adsmachine, Group.`,
     },
   },
 };

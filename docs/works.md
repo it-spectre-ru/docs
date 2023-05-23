@@ -1,7 +1,7 @@
 ---
-id: starting
-title: Начало работы
-sidebar_label: Начало работы
+id: works
+title: Состав работ
+sidebar_label: Состав работ
 ---
 
 Welcome to the Create React App documentation!
