@@ -81,10 +81,17 @@ function Home() {
         <div className="container padding-vert--xl text--left">
           <div className="row">
             <div className="col col--4 col--offset-1">
-              <h2>Эффективная реклама</h2>
+              <h2>Запуск рекламы</h2>
               <p>
-                Сделаем Вашу рекламу в интернете систематической и эффективной. На основе индивидуальной стратегии продвижения, которая будет учитывать Ваши <strong>цели, бюджет, нишу и целевую аудиторию.</strong>.
+                Сделаем Вашу рекламу в интернете <strong>систематической и эффективной</strong>. На основе индивидуальной стратегии продвижения, которая будет учитывать Ваши цели, бюджет, нишу и целевую аудиторию.
               </p>
+              <p>
+                Работаем со <strong>сложными тематиками:</strong>
+              </p>
+              <CodeBlock className="language-html">
+                iGaming, Betting, Crypto
+              </CodeBlock>
+              <br />
             </div>
             <div className="col col--5 col--offset-1">
               <img
@@ -109,14 +116,12 @@ function Home() {
               />
             </div>
             <div className="col col--5 col--offset-1">
-              <h2>Easy to Maintain</h2>
+              <h2>Аналитика трафика</h2>
               <p>
-                Updating your build tooling is typically a daunting and
-                time-consuming task. When new versions of Create React App are
-                released, you can upgrade using a single command:
+                Гарантируем полную отчетность и даем полный доступ к лучшим аналитическим инструментам и сервисам. Не упустите шанс получить максимальную отдачу от вашего бюджета.
               </p>
               <CodeBlock className="language-sh">
-                npm install react-scripts@latest
+                Снизим стоимость привлечения клиента
               </CodeBlock>
             </div>
           </div>
