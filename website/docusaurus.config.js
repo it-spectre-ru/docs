@@ -21,10 +21,8 @@ const siteConfig = {
         docs: {
           path: '../docs',
           sidebarPath: require.resolve('./sidebars.json'),
-          editUrl:
-            'https://github.com/facebook/create-react-app/edit/main/docusaurus/website',
-          showLastUpdateAuthor: true,
-          showLastUpdateTime: true,
+          showLastUpdateAuthor: false,
+          showLastUpdateTime: false,
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),

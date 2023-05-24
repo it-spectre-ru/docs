@@ -1,25 +1,38 @@
 ---
 id: contacts
-title: Контакты
+title: Запишитесь на консультацию
 sidebar_label: Контакты
 ---
 
-Welcome to the Create React App documentation!
+Запись на бесплатную консультацию займет у вас несколько минут.
 
-## Navigation
+Вам нужно только [выбрать](https://) удобное для Вас время.
 
-You can find different topics in the table of contents. On desktop, you should see it in the left sidebar. On mobile, you should see it after pressing an icon with arrows in the top left corner.
+Мы проведем 30-минутную встречу по видеосвязи, на которой познакомимся лично, обсудим вашу ситуацию и выясним, подходим ли мы друг другу для дальнейшего сотрудничества.
 
-## Looking for React Docs?
 
-The documentation for React itself is located on a separate website: **[reactjs.org](https://reactjs.org/)**.
 
-This website is only about Create React App.
 
-## Something Missing?
+## Заявка на продвижение
 
-If you have ideas for more “How To” recipes that should be on this page, [let us know](https://github.com/facebook/create-react-app/issues) or [contribute some!](https://github.com/facebook/create-react-app/tree/main/docusaurus/docs)
+- Заполните форму заявки на Коммерческое предложение — это займёт не более минуты.
+- Подберем индивидуальную стратегию в зависимости от ваших целей и бюджета
+- Предложим только результативные каналы продвижения вашего бизнеса.
+- Поможем Вам привлекать и конвертировать потенциальных клиентов в интернете по оптимальной цене. .
 
-## Feedback
+## Начало работы
 
-We are always open to [your feedback](https://github.com/facebook/create-react-app/issues).
+- Согласовываем условия сотрудничества.
+- Как только подписаны все документы, мы сразу начинаем работу.
+
+У нас более 50 высококвалифицированных специалистов в штате — мы обладаем ресурсами и технологиями для решения задач любой сложности точно в срок.
+
+## Контроль качества
+
+- Отслеживайте ключевые параметры результативности сотрудничества через Личный кабинет или оповещения в режиме реального времени
+- Каждый месяц отчитываемся за все проведённые и планируемые работы по продвижению сайта, готовим выводы и рекомендации, направленные на увеличение эффективности продаж вашего бизнеса.
+
+## Гарантированный результат
+
+- Мы финансово отвечаем за результаты нашей работы по продвижению вашего сайта. 
+- Все гарантии зафиксированы в договоре.
