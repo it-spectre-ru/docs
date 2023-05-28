@@ -56,7 +56,7 @@ function Home() {
           <div className={styles.getStarted}>
             <Link
               className="button button--outline button--primary button--lg"
-              to={useBaseUrl('docs/contacts')}
+              to={useBaseUrl('docs/gift')}
             >
               Заказать консультацию
             </Link>
