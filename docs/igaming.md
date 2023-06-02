@@ -1,7 +1,7 @@
 ---
-id: strategy
-title: Комплексные digital-стратегии
-sidebar_label: Стратегия
+id: igaming
+title: iGaming
+sidebar_label: iGaming
 ---
 
 Welcome to the Create React App documentation!
