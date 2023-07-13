@@ -1,7 +1,7 @@
 ---
-id: strategy
-title: Комплексные digital-стратегии
-sidebar_label: Стратегия
+id: reviews
+title: Отзывы
+sidebar_label: Отзывы клиентов
 ---
 
 Welcome to the Create React App documentation!

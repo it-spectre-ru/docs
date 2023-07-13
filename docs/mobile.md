@@ -1,7 +1,7 @@
 ---
-id: b2b
-title: Корпоративный сектор
-sidebar_label: Корпоративный сектор
+id: mobile
+title: Mobile
+sidebar_label: Mobile
 ---
 
 Welcome to the Create React App documentation!
