@@ -35,8 +35,8 @@ const siteConfig = {
     announcementBar: {
       id: 'support',
       content:
-        'Support  <a target="_blank" rel="noopener noreferrer" \
-        href=""> 111111111111111111</a>.',
+        '<a target="_blank" rel="noopener noreferrer" \
+        href=""> </a>',
       backgroundColor: '#20232a',
       textColor: '#fff',
       isCloseable: false,
